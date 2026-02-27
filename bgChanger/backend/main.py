@@ -16,6 +16,7 @@ app.add_middleware(
 colors = [
     {"name": "Red", "value": "#E0BDB6"},
     {"name": "Green", "value": "#D3F2D4"},
+    {"name": "Yellow", "value": "#DBDEAB"},
     {"name": "Pink", "value": "#F1D3F2"},
 ]
 

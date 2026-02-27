@@ -23,7 +23,7 @@ function App() {
         <img src={Logo} className="logo" alt="Vite logo" />
         <img src={image} className="image" alt="React logo" />
 
-        <div className='fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2 bg-transparent'>
+        <div className=' flex flex-wrap justify-center bottom-12 inset-x-0 px-2 my-10 bg-transparent'>
           <div className='flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl'>
             
             {colors.map((item, index) => (
